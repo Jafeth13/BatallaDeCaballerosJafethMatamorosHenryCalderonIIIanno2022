@@ -36,6 +36,8 @@ public class Main {
 //		Carta j2=new Carta(f.recargarEnergia(c), 0);
 //		System.out.println(f.ataca(j2, j));
 		
+		System.out.println("Prueba");
+		
 	}
 
 }
